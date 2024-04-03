@@ -1,2 +1,2 @@
-# Barty
-This is the initial repository for Barty, the low cost liquid handler.
+# Garby
+This is the initial repository for Garby, the trash plate handling conveyor belt.
