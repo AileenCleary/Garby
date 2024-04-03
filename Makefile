@@ -1,5 +1,5 @@
 .DEFAULT_GOAL := all
-package_name = barty_node
+package_name = garby_node
 extra_folders = test/
 isort = isort $(package_name) $(extra_folders)
 black = black --target-version py37 $(package_name) $(extra_folders)
