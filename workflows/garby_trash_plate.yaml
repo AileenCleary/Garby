@@ -1,0 +1,18 @@
+
+name: Garby - Trash Plate - Workflow
+
+metadata:
+  author: Aileen Cleary
+  info: Trash Plate workflow for Garby for RPL Color Picker
+  version: 0.1
+
+modules:
+  - name: garby
+
+flowdef:
+  - name: Trash Plate
+    module: garby
+    action: trash_plate
+    args:
+      foo: bar
+    comments: Trashes plate.
